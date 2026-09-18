@@ -1,0 +1,30 @@
+{
+  "name": "smartcare-appointment-system",
+  "version": "1.0.0",
+  "description": "Production-ready Healthcare & Consultation Appointment Booking Backend System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node tests/runTests.js"
+  },
+  "keywords": [
+    "backend",
+    "rest-api",
+    "appointment-booking",
+    "validation",
+    "clean-architecture",
+    "sqlite",
+    "express"
+  ],
+  "author": "Backend Developer Candidate",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "joi": "^17.13.3",
+    "morgan": "^1.10.0"
+  }
+}
