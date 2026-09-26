@@ -1,7 +1,10 @@
 # SmartCare: Healthcare & Consultation Appointment Booking Backend System
 
 > **Internship Track Evaluation Project — Role: Backend Developer (Beginner Level)**  
-> A production-grade, layered REST API built with Node.js, Express, SQLite, and Joi, demonstrating realistic business logic, database relationships, input validation, conflict prevention, and standardized error handling.
+> A production-grade, layered REST API built with Node.js, Express, SQLite, and Joi, demonstrating realistic business logic, database relationships, input validation, conflict prevention, and standardized error handling.  
+>  
+> 🌐 **Live Deployed API (Production):** [https://smartcare-appointment-api.onrender.com](https://smartcare-appointment-api.onrender.com)  
+> 🩺 **Live Health Check:** [https://smartcare-appointment-api.onrender.com/api/v1/health](https://smartcare-appointment-api.onrender.com/api/v1/health)
 
 ---
 
@@ -15,7 +18,6 @@
 7. [Testing the API](#-testing-the-api)
    - [Automated Integration Test Suite](#1-automated-integration-test-suite)
    - [Postman Collection Testing](#2-postman-collection-testing)
-8. [Internship Evaluation & Viva Talking Points](#-internship-evaluation--viva-talking-points)
 
 ---
 
